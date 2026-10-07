@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-09-21T14:43:21Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9743027919",
+        "amenity": "police",
+        "name": "புதுக்கோட்டை காவல் நிலையம்",
+        "survey:date": "2022-05-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0445247,
+          8.736524
+        ]
+      },
+      "id": "node/9743027919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11535349506",
+        "amenity": "police",
+        "check_date": "2024-01-21",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9077959,
+          8.6258884
+        ]
+      },
+      "id": "node/11535349506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12622178058",
+        "amenity": "police",
+        "check_date": "2025-02-26",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8716028,
+          9.1729984
+        ]
+      },
+      "id": "node/12622178058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12622199524",
+        "amenity": "police",
+        "check_date": "2025-02-26",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0211681,
+          8.9159832
+        ]
+      },
+      "id": "node/12622199524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12729125134",
+        "amenity": "police",
+        "check_date": "2025-04-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.124523,
+          8.7434769
+        ]
+      },
+      "id": "node/12729125134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12818542389",
+        "amenity": "police",
+        "check_date": "2025-05-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.166659,
+          8.749181
+        ]
+      },
+      "id": "node/12818542389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13415981854",
+        "amenity": "police",
+        "check_date": "2025-12-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1261947,
+          8.4992968
+        ]
+      },
+      "id": "node/13415981854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13910328978",
+        "amenity": "police",
+        "check_date": "2026-06-04",
+        "name": "B3 South Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1368421,
+          8.8005023
+        ]
+      },
+      "id": "node/13910328978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13910328979",
+        "amenity": "police",
+        "check_date": "2026-06-04",
+        "name": "Thoothukudi All Women Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1369217,
+          8.80064
+        ]
+      },
+      "id": "node/13910328979"
+    }
+  ]
+}

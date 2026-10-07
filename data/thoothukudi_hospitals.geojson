@@ -1,0 +1,4407 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-09-21T14:45:26Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/823674460",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Medical College Hospital Thoothukudi, Thoothukudi, Subbaiah Puram",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Thoothukudi Government Medical College Hospital",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1360638,
+          8.7981499
+        ]
+      },
+      "id": "way/823674460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1025084391",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Government Hospital, Tiruchendur, Tiruchendur Rail Way Station, Tiruchendur, Traveller Banglow Road",
+        "addr:postcode": "628201",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Tiruchendur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital, Tiruchendur",
+        "source": "OpenGovernmentData",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1185933,
+          8.4992244
+        ]
+      },
+      "id": "way/1025084391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1223253748",
+        "addr:housenumber": "1",
+        "addr:street": "Thoothukudi - Tiruchendur - Kanyakumari Road",
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "source": "microsoft/BuildingFootprints",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1389607,
+          8.8076546
+        ]
+      },
+      "id": "way/1223253748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769456753",
+        "addr:district": "Tuticorin",
+        "addr:full": "Nazareth",
+        "addr:postcode": "628616",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "St. Lukes Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9701379,
+          8.5584834
+        ]
+      },
+      "id": "node/1769456753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5500129721",
+        "amenity": "hospital",
+        "name": "அரசு மருத்துவமனை நகலாபுரம்",
+        "name:en": "govt hospital nagalapuram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1377944,
+          9.2274846
+        ]
+      },
+      "id": "node/5500129721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6914927137",
+        "addr:district": "Tuticorin",
+        "addr:full": "520, Tirunelveli Nh, Kr Nagar Post",
+        "addr:postcode": "628503",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kovilpatti Venkateswara Hospitals (Run By Dhamayanthi Hospitals (P) Ltd)",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8512467,
+          9.1657833
+        ]
+      },
+      "id": "node/6914927137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6915000700",
+        "addr:district": "Tuticorin",
+        "addr:full": "#46C, Santhai Pettai Street",
+        "addr:postcode": "628502",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sri Murali Hospital, Tuticorin",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8666735,
+          9.1741944
+        ]
+      },
+      "id": "node/6915000700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6915201493",
+        "addr:district": "Tuticorin",
+        "addr:full": "1/143 B, Tuticorin Road, Veerapandianratnam, Tiruchendur",
+        "addr:postcode": "628215",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "B G Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1177631,
+          8.5099294
+        ]
+      },
+      "id": "node/6915201493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6915858053",
+        "addr:district": "Tuticorin",
+        "addr:full": "135, Palayamkottai Road",
+        "addr:postcode": "628003",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "check_date": "2025-03-17",
+        "email": "contact@avmh.in",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "A.V. M. Hospital",
+        "opening_hours": "24/7",
+        "phone": "+91 461 232 5461",
+        "source": "OpenGovernmentData;survey",
+        "start_date": "1992",
+        "website": "https://www.avmh.in/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1375699,
+          8.8017177
+        ]
+      },
+      "id": "node/6915858053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6929592140",
+        "addr:district": "Tuticorin",
+        "addr:full": "No.26, Tiruchendur Road",
+        "addr:postcode": "628003",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Be Well Hospital",
+        "source": "OpenGovernmentData",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1408328,
+          8.7877394
+        ]
+      },
+      "id": "node/6929592140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6929737132",
+        "addr:district": "Tuticorin",
+        "addr:full": "106 G / 8 Palai Main Road West Miller Puram",
+        "addr:postcode": "628008",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "City Hospital, Miller Puram",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1250815,
+          8.7960917
+        ]
+      },
+      "id": "node/6929737132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932058497",
+        "addr:district": "Tuticorin",
+        "addr:full": "Tiruchendur Road, Kayalpatnam",
+        "addr:postcode": "628204",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "K. M. T. Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1214981,
+          8.5571707
+        ]
+      },
+      "id": "node/6932058497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932068433",
+        "addr:district": "Tuticorin",
+        "addr:full": "133, Lf Road, Rathnapuri, Kayalpatinam, Near Ratnapuri Bus Stand",
+        "addr:postcode": "628204",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Razack Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1125006,
+          8.5663079
+        ]
+      },
+      "id": "node/6932068433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932089133",
+        "addr:district": "Tuticorin",
+        "addr:full": "40-41,Andal Street,Tuticorin",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rengasamy Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1466947,
+          8.8085138
+        ]
+      },
+      "id": "node/6932089133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932090955",
+        "addr:district": "Tuticorin",
+        "addr:full": "No.10, V.E. Road, Near Anthony`S Church",
+        "addr:postcode": "628003",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "check_date": "2024-09-21",
+        "healthcare": "hospital",
+        "name": "Rayen Eye Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1505256,
+          8.8023134
+        ]
+      },
+      "id": "node/6932090955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6933831622",
+        "addr:district": "Tuticorin",
+        "addr:full": "286, Kulasai Road,Tiruchendur",
+        "addr:postcode": "628215",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Edison Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1170335,
+          8.4930872
+        ]
+      },
+      "id": "node/6933831622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6933992437",
+        "addr:district": "Tuticorin",
+        "addr:full": "#2764/6, Main Road",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Padma Hospital, Tuticorin",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8597601,
+          9.1724945
+        ]
+      },
+      "id": "node/6933992437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934267031",
+        "addr:district": "Tuticorin",
+        "addr:full": "49, Toovey Puram 10Th Street",
+        "addr:postcode": "628003",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Annai Saradha Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1340508,
+          8.8069785
+        ]
+      },
+      "id": "node/6934267031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934340756",
+        "addr:district": "Tuticorin",
+        "addr:full": "134 To 136, Muthananthapuram Street Muthananthapuram Street",
+        "addr:postcode": "628502",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Padma Praba Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8670678,
+          9.1738859
+        ]
+      },
+      "id": "node/6934340756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934496949",
+        "addr:district": "Tuticorin",
+        "addr:full": "5A / 84 , Caldwel Colony, First Street, Thoothukudi",
+        "addr:postcode": "628008",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "check_date": "2024-07-10",
+        "healthcare": "hospital",
+        "internet_access": "no",
+        "name": "Vino Hospital",
+        "name:ta": "வினோ மருத்துவமனை",
+        "source": "OpenGovernmentData",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.135121,
+          8.7869561
+        ]
+      },
+      "id": "node/6934496949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934661974",
+        "addr:district": "Tuticorin",
+        "addr:full": "Main Road, North Auhtoor",
+        "addr:postcode": "628151",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sankar Hospital, Tuticorin",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0706675,
+          8.620426
+        ]
+      },
+      "id": "node/6934661974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934678974",
+        "addr:district": "Tuticorin",
+        "addr:full": "59 60 Chokkan Urani Street, Opp To Aks Theatre, Kovilpatti, Thoothukudi",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sudiksha Prabhu Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8648214,
+          9.1726944
+        ]
+      },
+      "id": "node/6934678974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936147513",
+        "addr:district": "Tuticorin",
+        "addr:full": "46, Andal Street, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "R.R. Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1464869,
+          8.8085483
+        ]
+      },
+      "id": "node/6936147513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936339690",
+        "addr:district": "Tuticorin",
+        "addr:full": "145/5B Jeyaraj Road Tuticorin",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "check_date": "2025-11-24",
+        "email": "sundaramarulrhajhospital@gmail.com",
+        "fax": "+91 461 2338661",
+        "healthcare": "hospital",
+        "name": "Sundaram Arulraj Hospitals",
+        "phone": "+91 461 232 0061; +91 461 232 2661; +91 461 423 0001",
+        "source": "OpenGovernmentData",
+        "website": "https://sah-hospitals.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1399959,
+          8.8081533
+        ]
+      },
+      "id": "node/6936339690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936359903",
+        "addr:district": "Tuticorin",
+        "addr:full": "48 North Cotton Road, Thoothukundi",
+        "addr:postcode": "628001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "check_date": "2025-04-04",
+        "healthcare": "hospital",
+        "name": "Thenmani Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1530891,
+          8.8058168
+        ]
+      },
+      "id": "node/6936359903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936663159",
+        "addr:district": "Tuticorin",
+        "addr:full": "1B/2 Perumalpuram ( Opp Subbiah Vidyalayam Girls School West Gate Thoothukudi",
+        "addr:postcode": "628003",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "check_date": "2022-11-04",
+        "healthcare": "hospital",
+        "name": "Veeramani Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1388909,
+          8.8012141
+        ]
+      },
+      "id": "node/6936663159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936684296",
+        "addr:district": "Tuticorin",
+        "addr:full": "34E, Palayamkottai Road Tiruchendur",
+        "addr:postcode": "628215",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "K. K. Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1173232,
+          8.4995653
+        ]
+      },
+      "id": "node/6936684296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936684347",
+        "addr:district": "Tuticorin",
+        "addr:full": "Kandhasamy Puram, Opp To Bsnl, Krishna Raja Puram",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sacred Heart Hospital, Tuticorin",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1467699,
+          8.8146048
+        ]
+      },
+      "id": "node/6936684347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6937561346",
+        "addr:district": "Tuticorin",
+        "addr:full": "# 60, Santhai Pettai Street, Kovilpatti",
+        "addr:postcode": "628502",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Aarthi Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8662443,
+          9.1745333
+        ]
+      },
+      "id": "node/6937561346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7181812929",
+        "addr:district": "Tuticorin",
+        "addr:full": "Kovilpatti",
+        "addr:postcode": "628502",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rhyatham Hospital, Kovilpatti",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8657394,
+          9.1742024
+        ]
+      },
+      "id": "node/7181812929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7184228792",
+        "addr:district": "Tuticorin",
+        "addr:full": "291-C, Main Road, Naduvakurichi, Srivaigundam",
+        "addr:postcode": "628251",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Selvaa Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0350315,
+          8.6836443
+        ]
+      },
+      "id": "node/7184228792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249356833",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Betmanagaram, Srivaikundam, South Street",
+        "addr:postcode": "628620",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Srivaikuntam",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital, Betmanagaram",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9549229,
+          8.6502083
+        ]
+      },
+      "id": "node/7249356833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249356836",
+        "addr:block": "Srivaikundam",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Government Hospital, Srivaigundam, Main Raod",
+        "addr:postcode": "628151",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Srivaikuntam",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Srivaikundam Government Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9124722,
+          8.6289886
+        ]
+      },
+      "id": "node/7249356836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249356838",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Voc Government Hospital, Nearby Union Office, Ottapidaram, Oosanuthu Road",
+        "addr:postcode": "628401",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Ottapidaram",
+        "amenity": "hospital",
+        "name": "Government Hospital, Ottapidaram",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.021275,
+          8.909187
+        ]
+      },
+      "id": "node/7249356838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249356855",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Maruthuvar Street, Raththinapuri, Kayalpattinam",
+        "addr:postcode": "628204",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Tiruchendur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital, Kayalpattinam",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1207651,
+          8.5675729
+        ]
+      },
+      "id": "node/7249356855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249356870",
+        "addr:block": "Srivaikundam",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "9/2, Big Manara Pallivasal, Therasa Middle School Street, Siruthonda Nallur, Eral",
+        "addr:postcode": "628801",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Srivaikuntam",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital, Eral",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0228847,
+          8.6281021
+        ]
+      },
+      "id": "node/7249356870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249356911",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Thenthiruperai, Tiruchendur, Vadaku Radha Veethi",
+        "addr:postcode": "628623",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Tiruchendur",
+        "description": "Primary Health Centre",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Thenthiruperai Govt Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9855821,
+          8.604305
+        ]
+      },
+      "id": "node/7249356911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249356916",
+        "addr:block": "Kovilpatty",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Sub District Hospital, Near Raja Higher Secondary School, Ettayapuram, Middle Street",
+        "addr:postcode": "628902",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Kovilpatti",
+        "amenity": "hospital",
+        "name": "Government Hospital, Ettaiyapuram",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9916476,
+          9.1480267
+        ]
+      },
+      "id": "node/7249356916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249356962",
+        "addr:block": "Kovilpatty",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Government Head Quarters Hospital, Opposite To Police Quarters, Kovilpatti, New Road",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Kovilpatti",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital, Kovilpatti",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8743474,
+          9.175784
+        ]
+      },
+      "id": "node/7249356962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249356979",
+        "addr:block": "Kayathar",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Kalugumalai",
+        "addr:postcode": "628552",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Kovilpatti",
+        "amenity": "hospital",
+        "name": "Government Hospital, Kalugumalai",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7018977,
+          9.1507621
+        ]
+      },
+      "id": "node/7249356979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249356993",
+        "addr:block": "Kayathar",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Near Santhana Matha Chruch, Kayathar",
+        "addr:postcode": "628952",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Kovilpatti",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital, Kayathar",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.776083,
+          8.944803
+        ]
+      },
+      "id": "node/7249356993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249361625",
+        "addr:block": "Sattankulam",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Mudalur, Sathankulam, Dharmapuri",
+        "addr:postcode": "628702",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Sathankulam",
+        "amenity": "hospital",
+        "name": "Government Hospital, Mudalur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.942626,
+          8.421419
+        ]
+      },
+      "id": "node/7249361625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249361626",
+        "addr:block": "Sattankulam",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Padukapattu, Sathankulam, Tisayanvillai Road",
+        "addr:postcode": "628703",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Sathankulam",
+        "amenity": "hospital",
+        "name": "Padukkapathu Government Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.981655,
+          8.3654859
+        ]
+      },
+      "id": "node/7249361626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249361672",
+        "addr:block": "Udankudi",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Govt. Hospital Kalaynkudiruppu, Udankudi, Kalangudiyiruppu, Main Road",
+        "addr:postcode": "628203",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Tiruchendur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kalangudieruppu Goverment Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0326817,
+          8.4303468
+        ]
+      },
+      "id": "node/7249361672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7249361685",
+        "addr:block": "Sattankulam",
+        "addr:district": "Thoothukkudi",
+        "addr:full": "Government Hospital, Sathankulam, Main Raod",
+        "addr:postcode": "628702",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Sathankulam",
+        "amenity": "hospital",
+        "name": "Government Hospital, Sathankulam",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9096381,
+          8.4430918
+        ]
+      },
+      "id": "node/7249361685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7602523595",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "avm hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1422851,
+          8.7966695
+        ]
+      },
+      "id": "node/7602523595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7818764830",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "அரசு ஆரம்ப சுகாதார நிலையம்"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9462525,
+          8.603808
+        ]
+      },
+      "id": "node/7818764830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693857",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Alanda",
+        "addr:postcode": "628303",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Prabha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.848357,
+          8.82487
+        ]
+      },
+      "id": "node/7841693857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693858",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kurukkuchalai",
+        "addr:postcode": "628722",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Habibia Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0895673,
+          8.9315938
+        ]
+      },
+      "id": "node/7841693858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693860",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Parambur, vadakku, Ottapidaram",
+        "addr:postcode": "628401",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.021363,
+          8.910024
+        ]
+      },
+      "id": "node/7841693860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693861",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Iluppaiyurani, Kovilpatti",
+        "addr:postcode": "628502",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8674968,
+          9.1766246
+        ]
+      },
+      "id": "node/7841693861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693862",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Pudiyamputhur",
+        "addr:postcode": "628402",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "St Annes Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.025511,
+          8.877448
+        ]
+      },
+      "id": "node/7841693862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693864",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Mahalakshmi Nagar, Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Jeya Shri Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.860087,
+          9.181803
+        ]
+      },
+      "id": "node/7841693864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693866",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kayathar",
+        "addr:postcode": "628952",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Gopal Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.771705,
+          8.945271
+        ]
+      },
+      "id": "node/7841693866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693868",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "One Rupee Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8665814,
+          9.1633254
+        ]
+      },
+      "id": "node/7841693868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693869",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Subhanagar Road, Kovilpatti",
+        "addr:postcode": "628502",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sri Siddhar Siddha Hospital & Research Centre",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.850617,
+          9.184182
+        ]
+      },
+      "id": "node/7841693869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693870",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Vilathikulam",
+        "addr:postcode": "628907",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Santhi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1665423,
+          9.1326814
+        ]
+      },
+      "id": "node/7841693870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693871",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Pudur",
+        "addr:postcode": "628905",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr. S. Perumal Siddha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.135617,
+          9.296452
+        ]
+      },
+      "id": "node/7841693871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693872",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kovilpatti, Thoothukudi",
+        "addr:postcode": "628502",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sri Sendur Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8663602,
+          9.174386
+        ]
+      },
+      "id": "node/7841693872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693873",
+        "addr:district": "Thoothukudi",
+        "addr:full": "K.Duraisamipuram",
+        "addr:postcode": "628907",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.206952,
+          9.216457
+        ]
+      },
+      "id": "node/7841693873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693876",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Vilathikulam",
+        "addr:postcode": "628907",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.16824,
+          9.129046
+        ]
+      },
+      "id": "node/7841693876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693878",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Sevvalpatti, Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Meenatchi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.872385,
+          9.177407
+        ]
+      },
+      "id": "node/7841693878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693880",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Ettaiyapuram",
+        "addr:postcode": "628902",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Rukumani Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9943643,
+          9.1496729
+        ]
+      },
+      "id": "node/7841693880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693881",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sri Lakshmi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.865731,
+          9.173894
+        ]
+      },
+      "id": "node/7841693881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693882",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Shanmugapuram, Ettaiyapuram",
+        "addr:postcode": "628902",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Selvam Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.994086,
+          9.147583
+        ]
+      },
+      "id": "node/7841693882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693884",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Sevvalpatti, Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Murali Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8720657,
+          9.1797587
+        ]
+      },
+      "id": "node/7841693884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693887",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr. Sennakesvan Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.868017,
+          9.174734
+        ]
+      },
+      "id": "node/7841693887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693890",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Seydunganallur",
+        "addr:postcode": "628809",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "J.V. Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.826694,
+          8.663892
+        ]
+      },
+      "id": "node/7841693890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693891",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kadershan Koil, Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ganga Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.864882,
+          9.1728787
+        ]
+      },
+      "id": "node/7841693891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693894",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Ettaiyapuram",
+        "addr:postcode": "628902",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Kumar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.989551,
+          9.147513
+        ]
+      },
+      "id": "node/7841693894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693898",
+        "addr:district": "Thoothukudi",
+        "addr:full": "V.O.C. Nagar, Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "RMS Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.863934,
+          9.17461
+        ]
+      },
+      "id": "node/7841693898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693900",
+        "addr:district": "Thoothukudi;Tuticorin",
+        "addr:full": "Kovilpatti;Aks Theatre Road Kovilpatti",
+        "addr:postcode": "628501;628502",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "fixme": "Address fields",
+        "healthcare": "hospital",
+        "name": "Srinivasa Hospital",
+        "source": "Local Knowledge;OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8651038,
+          9.1732982
+        ]
+      },
+      "id": "node/7841693900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693901",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Tuticorin",
+        "addr:postcode": "628905",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Vediyal Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0805765,
+          9.3195279
+        ]
+      },
+      "id": "node/7841693901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693903",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Puthukiramam, Kovilpatti",
+        "addr:postcode": "628502",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Visakan Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.879661,
+          9.175538
+        ]
+      },
+      "id": "node/7841693903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693904",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Iluppaiyurani, Kovilpatti",
+        "addr:postcode": "628502",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Siva Sakthii Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.866514,
+          9.177053
+        ]
+      },
+      "id": "node/7841693904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693906",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Sevvalpatti, Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Meenakshi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.871751,
+          9.176971
+        ]
+      },
+      "id": "node/7841693906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693907",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Karthik Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.866287,
+          9.17563
+        ]
+      },
+      "id": "node/7841693907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693908",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Vallanadu",
+        "addr:postcode": "628252",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Surya Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.848558,
+          8.7154667
+        ]
+      },
+      "id": "node/7841693908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693909",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Vilathikulam",
+        "addr:postcode": "628907",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Raj hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.167931,
+          9.132756
+        ]
+      },
+      "id": "node/7841693909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693910",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Pudiyamputhur",
+        "addr:postcode": "628402",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Sangeetha Thanaraj Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.026203,
+          8.873539
+        ]
+      },
+      "id": "node/7841693910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693913",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Pottalurani",
+        "addr:postcode": "628851",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.935693,
+          8.747166
+        ]
+      },
+      "id": "node/7841693913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693914",
+        "addr:district": "Thoothukudi",
+        "addr:full": "V.O.C. Nagar, Kovilpatti",
+        "addr:postcode": "628502",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Parithi Homeopatthi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8665546,
+          9.1763119
+        ]
+      },
+      "id": "node/7841693914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693916",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Muthanantha Puram, Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Thulasi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8651564,
+          9.174867
+        ]
+      },
+      "id": "node/7841693916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693917",
+        "addr:district": "Thoothukudi",
+        "addr:full": "V.O.C. Nagar, Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vasan Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.866054,
+          9.174534
+        ]
+      },
+      "id": "node/7841693917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693919",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Vilathikulam",
+        "addr:postcode": "628907",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Jayashri Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1662,
+          9.132309
+        ]
+      },
+      "id": "node/7841693919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693920",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Sevvalpatti, Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Aravind Eye Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8717781,
+          9.1760067
+        ]
+      },
+      "id": "node/7841693920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693923",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Sekkarakkudi",
+        "addr:postcode": "628104",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.950164,
+          8.796133
+        ]
+      },
+      "id": "node/7841693923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693925",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Veppalodai",
+        "addr:postcode": "628903",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Ayurvedha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1853066,
+          8.9707417
+        ]
+      },
+      "id": "node/7841693925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693926",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Pudukottai",
+        "addr:postcode": "628103",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Balaji Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8743314,
+          9.1779246
+        ]
+      },
+      "id": "node/7841693926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693929",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Ottapidaram",
+        "addr:postcode": "628401",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Bhuvaneswari Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.021108,
+          8.912955
+        ]
+      },
+      "id": "node/7841693929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693933",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kamaraj Nagar, Vilathikulam",
+        "addr:postcode": "628907",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Priya Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.164141,
+          9.129781
+        ]
+      },
+      "id": "node/7841693933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693934",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Verravanchi Nagar, Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Jai Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.847711,
+          9.163599
+        ]
+      },
+      "id": "node/7841693934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7841693935",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Jothi Nagar, Kovilpatti",
+        "addr:postcode": "628501",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sri Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.874336,
+          9.17317
+        ]
+      },
+      "id": "node/7841693935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255453",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thiruchendur",
+        "addr:postcode": "628215",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Narkunam Siddha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1247532,
+          8.4962638
+        ]
+      },
+      "id": "node/7842255453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255456",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Tuticorin",
+        "addr:postcode": "628215",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Murugan Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.117014,
+          8.493247
+        ]
+      },
+      "id": "node/7842255456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255458",
+        "addr:district": "Tirunelveli",
+        "addr:full": "Arasoor",
+        "addr:postcode": "628656",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Arasoor Ananthah Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8958285,
+          8.3524188
+        ]
+      },
+      "id": "node/7842255458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255459",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Saravanas Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.925575,
+          8.481931
+        ]
+      },
+      "id": "node/7842255459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255460",
+        "addr:district": "Tirunelveli",
+        "addr:full": "Naduvakkurichi",
+        "addr:postcode": "628653",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Naduva Kurichi Kashpa Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.923563,
+          8.374123
+        ]
+      },
+      "id": "node/7842255460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255462",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Udangudi",
+        "addr:postcode": "628203",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Karpagam Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.029092,
+          8.428504
+        ]
+      },
+      "id": "node/7842255462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255463",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Eral",
+        "addr:postcode": "628801",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Suresh Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0249038,
+          8.6241838
+        ]
+      },
+      "id": "node/7842255463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255464",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thiruchendur",
+        "addr:postcode": "628215",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kruthick Skin Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.117751,
+          8.497633
+        ]
+      },
+      "id": "node/7842255464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255466",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Mudalur",
+        "addr:postcode": "628702",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Nava Mudalur Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.945208,
+          8.417318
+        ]
+      },
+      "id": "node/7842255466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255467",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Sathankulam",
+        "addr:postcode": "628704",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Dr. Sumathi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.915233,
+          8.442944
+        ]
+      },
+      "id": "node/7842255467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255472",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Murugesapuram, Paramankurichi",
+        "addr:postcode": "628213",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Anantha Aparna Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.045211,
+          8.49253
+        ]
+      },
+      "id": "node/7842255472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255474",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Udangudi",
+        "addr:postcode": "628203",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Srithar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.032738,
+          8.426576
+        ]
+      },
+      "id": "node/7842255474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255476",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Arumuganeri",
+        "addr:postcode": "628202",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ayyadurai Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.095062,
+          8.569736
+        ]
+      },
+      "id": "node/7842255476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255477",
+        "addr:district": "Thoothukudi",
+        "addr:postcode": "628801",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rajam Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.023477,
+          8.623771
+        ]
+      },
+      "id": "node/7842255477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255478",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Eral",
+        "addr:postcode": "628801",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Janaki Raman Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0204223,
+          8.6257952
+        ]
+      },
+      "id": "node/7842255478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255479",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Alwarthirunagari",
+        "addr:postcode": "628612",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Swetha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9410963,
+          8.6078019
+        ]
+      },
+      "id": "node/7842255479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255480",
+        "addr:district": "Thoothukudi",
+        "addr:full": "L.R.Nagar, Kayalpattinam",
+        "addr:postcode": "628202",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rani Tupps Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1088333,
+          8.5665519
+        ]
+      },
+      "id": "node/7842255480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255481",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Tuticorin",
+        "addr:postcode": "628215",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sumathi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.116163,
+          8.491627
+        ]
+      },
+      "id": "node/7842255481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255485",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thisaikaval street, Arumuganeri",
+        "addr:postcode": "628202",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sundaram Nallathambi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0958823,
+          8.5686881
+        ]
+      },
+      "id": "node/7842255485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255486",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Sathankulam",
+        "addr:postcode": "628704",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Dr. Pitchimani Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.912554,
+          8.444489
+        ]
+      },
+      "id": "node/7842255486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255487",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Adaikalapuram",
+        "addr:postcode": "628217",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Arokia Annai Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.100296,
+          8.533076
+        ]
+      },
+      "id": "node/7842255487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255490",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Authoor",
+        "addr:postcode": "628151",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Jayachandra Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.069171,
+          8.622463
+        ]
+      },
+      "id": "node/7842255490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255491",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Sathankulam",
+        "addr:postcode": "628704",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sandra Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9147515,
+          8.4473342
+        ]
+      },
+      "id": "node/7842255491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255492",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Udangudi",
+        "addr:postcode": "628203",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sivaranjani Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.029483,
+          8.431508
+        ]
+      },
+      "id": "node/7842255492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255493",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thiruchendur",
+        "addr:postcode": "628215",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Venkada Rengan Hospitals",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.119513,
+          8.496037
+        ]
+      },
+      "id": "node/7842255493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255494",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thiruchendur",
+        "addr:postcode": "628215",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kani Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1250702,
+          8.4962534
+        ]
+      },
+      "id": "node/7842255494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255496",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Nazareth",
+        "addr:postcode": "628617",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr. Kirubai Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.973395,
+          8.559331
+        ]
+      },
+      "id": "node/7842255496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255497",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628216",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Surya Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.11664,
+          8.509155
+        ]
+      },
+      "id": "node/7842255497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255498",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Arumuganeri",
+        "addr:postcode": "628202",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Divakaran Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1007079,
+          8.5693554
+        ]
+      },
+      "id": "node/7842255498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255502",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Punnaikayal",
+        "addr:postcode": "628005",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Raja Pinheiro Charitable Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.116605,
+          8.633557
+        ]
+      },
+      "id": "node/7842255502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255504",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Srivaikuntam",
+        "addr:postcode": "628601",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Jeya Murugan Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9120952,
+          8.6304551
+        ]
+      },
+      "id": "node/7842255504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255505",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Udangudi",
+        "addr:postcode": "628203",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Jaikapeesha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.028455,
+          8.431749
+        ]
+      },
+      "id": "node/7842255505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255506",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Seerudaiyarpuram",
+        "addr:postcode": "628701",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Thambi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9370627,
+          8.5008338
+        ]
+      },
+      "id": "node/7842255506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255507",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Sathankulam",
+        "addr:postcode": "628704",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Sekar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9129127,
+          8.4448935
+        ]
+      },
+      "id": "node/7842255507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255509",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Srivaikuntam",
+        "addr:postcode": "628601",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Aravind Eye Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9118165,
+          8.6319319
+        ]
+      },
+      "id": "node/7842255509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255510",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Sathankulam",
+        "addr:postcode": "628704",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Jaikapisha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9180479,
+          8.440613
+        ]
+      },
+      "id": "node/7842255510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255513",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Sathankulam",
+        "addr:postcode": "628704",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Bala Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.905897,
+          8.4423
+        ]
+      },
+      "id": "node/7842255513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255514",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Nazareth",
+        "addr:postcode": "628616",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr. Karmegaraj Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.977165,
+          8.56156
+        ]
+      },
+      "id": "node/7842255514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255515",
+        "addr:district": "Thoothukudi",
+        "addr:postcode": "628704",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Sivakami Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9192102,
+          8.4364671
+        ]
+      },
+      "id": "node/7842255515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255516",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Eral",
+        "addr:postcode": "628801",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Maragatham Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.021819,
+          8.62441
+        ]
+      },
+      "id": "node/7842255516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255517",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thiruchendur",
+        "addr:postcode": "628215",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Suba Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1247016,
+          8.4939588
+        ]
+      },
+      "id": "node/7842255517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7842255518",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Arumuganeri",
+        "addr:postcode": "628202",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.093773,
+          8.569212
+        ]
+      },
+      "id": "node/7842255518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311747",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Toovipuram, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Fathima Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1349747,
+          8.8039359
+        ]
+      },
+      "id": "node/7843311747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311755",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Malar Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1483029,
+          8.8107915
+        ]
+      },
+      "id": "node/7843311755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311756",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Shanmugapuram, Thoothukudi",
+        "addr:postcode": "628001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Skin Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.147003,
+          8.802572
+        ]
+      },
+      "id": "node/7843311756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311758",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Shanmugapuram, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sri Vigneshvara Eye Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.148865,
+          8.806043
+        ]
+      },
+      "id": "node/7843311758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311762",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Laxmi Multispeciality Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13499,
+          8.809807
+        ]
+      },
+      "id": "node/7843311762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311764",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Nisha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.147777,
+          8.818391
+        ]
+      },
+      "id": "node/7843311764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311765",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Meenakshipuram, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "check_date": "2025-05-08",
+        "email": "tut.office@aravind.org",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Aravind Eye Hospital",
+        "opening_hours": "Mo-Sa 07:30-17:00; Su off",
+        "operator:type": "private",
+        "phone": "+91 461 230 0410",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.139482,
+          8.806565
+        ]
+      },
+      "id": "node/7843311765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311766",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.133052,
+          8.801118
+        ]
+      },
+      "id": "node/7843311766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311767",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Dhamodhara Nagar, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Eye Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1416769,
+          8.8018605
+        ]
+      },
+      "id": "node/7843311767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311770",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Shanmugapuram, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "G.K. Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.145503,
+          8.800014
+        ]
+      },
+      "id": "node/7843311770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311771",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Tuticorin Melur, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Alagu Children's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1446,
+          8.80493
+        ]
+      },
+      "id": "node/7843311771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311772",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rajeshwari Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.158401,
+          8.808811
+        ]
+      },
+      "id": "node/7843311772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311773",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Dhamodhara Nagar, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Abirami Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.141978,
+          8.801763
+        ]
+      },
+      "id": "node/7843311773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311776",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Chidambara Nagar, Subbiah Puram, Thoothukudi",
+        "addr:postcode": "628008",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sundaram Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.133094,
+          8.79655
+        ]
+      },
+      "id": "node/7843311776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311777",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628003",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Lakshmi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.153012,
+          8.797652
+        ]
+      },
+      "id": "node/7843311777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311779",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Southern Railway Health Unit",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.15367,
+          8.807144
+        ]
+      },
+      "id": "node/7843311779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311781",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Shanmugapuram, Thoothukudi",
+        "addr:postcode": "628003",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Thanga Kanniga Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.148945,
+          8.798417
+        ]
+      },
+      "id": "node/7843311781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311789",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Shanmugapuram, Thoothukudi",
+        "addr:postcode": "628001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ranjini Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.144984,
+          8.8074617
+        ]
+      },
+      "id": "node/7843311789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311792",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Toovipuram, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "check_date": "2025-03-17",
+        "healthcare": "hospital",
+        "name": "Suba Siddha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1366273,
+          8.8015038
+        ]
+      },
+      "id": "node/7843311792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311797",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628003",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "check_date": "2026-06-04",
+        "healthcare": "hospital",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Dr. Agarwals Eye Hospital",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su off",
+        "operator:type": "private",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 80 4819 3507",
+        "source": "survey",
+        "website": "https://eye-hospitals.dragarwal.com/dr-agarwals-eye-hospital-tuticorin-eye-care-clinic-palayamkottai-main-road-tuticorin-128650/Home?utm_source=locator",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1356495,
+          8.8007241
+        ]
+      },
+      "id": "node/7843311797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311800",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Cruz Puram, Thoothukudi",
+        "addr:postcode": "628001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ESI Hospital",
+        "operator": "Employees' State Insurance",
+        "operator:short": "ESI",
+        "operator:wikidata": "Q3595726",
+        "operator:wikipedia": "hi:कर्मचारी राज्‍य बीमा निगम",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1612165,
+          8.8122128
+        ]
+      },
+      "id": "node/7843311800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311804",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Subbiah Puram, Thoothukudi",
+        "addr:postcode": "628008",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "check_date": "2022-11-03",
+        "healthcare": "hospital",
+        "name": "Mariam Beevi Hospital",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.133581,
+          8.798544
+        ]
+      },
+      "id": "node/7843311804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311805",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "General Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.134947,
+          8.797717
+        ]
+      },
+      "id": "node/7843311805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311806",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Boobalraja Puram, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "C.S.I. Jeyaraj Annapackiam Mission Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1542039,
+          8.8178984
+        ]
+      },
+      "id": "node/7843311806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311807",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Krishnarajapuram, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ghurusanadh Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.148308,
+          8.8192535
+        ]
+      },
+      "id": "node/7843311807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311809",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Poobalarayerpuram, Thoothukudi",
+        "addr:postcode": "628001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Siroraj Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.155487,
+          8.816451
+        ]
+      },
+      "id": "node/7843311809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311813",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Pudugramam, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Herbocare Siddha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.140102,
+          8.7998894
+        ]
+      },
+      "id": "node/7843311813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311814",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Threspuram, Thoothukudi",
+        "addr:postcode": "628001",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Malar Hospital",
+        "name:ta": "மலர் மருத்துவமனை",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1614708,
+          8.8164672
+        ]
+      },
+      "id": "node/7843311814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311817",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Boltenpuram, Thoothukudi",
+        "addr:postcode": "628003",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "VVP Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1416155,
+          8.7954122
+        ]
+      },
+      "id": "node/7843311817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311821",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Meenakshipuram, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Aravind Eye Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.141538,
+          8.805381
+        ]
+      },
+      "id": "node/7843311821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843311822",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Ezhil Nagar, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Grace Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.143244,
+          8.809841
+        ]
+      },
+      "id": "node/7843311822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085393",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Sayapuram",
+        "addr:postcode": "628251",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Raphael's Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.02897,
+          8.679182
+        ]
+      },
+      "id": "node/7849085393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085395",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628008",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "check_date": "2024-10-20",
+        "healthcare": "hospital",
+        "name": "Ebenezer Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1212691,
+          8.7931056
+        ]
+      },
+      "id": "node/7849085395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085402",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kamaraj Nagar, Thoothukudi",
+        "addr:postcode": "628008",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rajesh Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1177484,
+          8.79092
+        ]
+      },
+      "id": "node/7849085402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085403",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Teachers Colony, Indra Nagar, Thoothukudi",
+        "addr:postcode": "628008",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Venkateshwara Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1200664,
+          8.7950528
+        ]
+      },
+      "id": "node/7849085403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085404",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kamaraj Nagar, Thoothukudi",
+        "addr:postcode": "628008",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.123156,
+          8.787249
+        ]
+      },
+      "id": "node/7849085404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085406",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Muthiahpuram, Thoothukudi",
+        "addr:postcode": "628007",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Hwp Township Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1210447,
+          8.7356798
+        ]
+      },
+      "id": "node/7849085406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085407",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Krishnarajapuram, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Monicka Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1477008,
+          8.8277307
+        ]
+      },
+      "id": "node/7849085407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085410",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Veppalodai, Thoothukudi",
+        "addr:postcode": "628005",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "GH Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.122584,
+          8.743572
+        ]
+      },
+      "id": "node/7849085410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085411",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628008",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "check_date": "2025-03-22",
+        "healthcare": "hospital",
+        "name": "Nisha Siddha Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13119,
+          8.789386
+        ]
+      },
+      "id": "node/7849085411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085417",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Periyanayagapuram, Thoothukudi",
+        "addr:postcode": "628101",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Nallathambi Hospital",
+        "name:ta": "நல்லதம்பி மருத்துவமனை",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.100623,
+          8.780109
+        ]
+      },
+      "id": "node/7849085417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085420",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Caldwell Colony, Thoothukudi",
+        "addr:postcode": "628008",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Jaxton Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1374226,
+          8.7862824
+        ]
+      },
+      "id": "node/7849085420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085423",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kamaraj Nagar, Thoothukudi",
+        "addr:postcode": "628008",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "P.K. Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.117618,
+          8.790402
+        ]
+      },
+      "id": "node/7849085423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085424",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Muthiahpuram, Thoothukudi",
+        "addr:postcode": "628005",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Muthu Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1235018,
+          8.742838
+        ]
+      },
+      "id": "node/7849085424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085428",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Pudukottai",
+        "addr:postcode": "628103",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Shyamala Nursing Home",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0543008,
+          8.7461561
+        ]
+      },
+      "id": "node/7849085428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085429",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Davis Puram, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Rama Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1510335,
+          8.8358287
+        ]
+      },
+      "id": "node/7849085429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085435",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Ganesh Nagar, Mullakadu, Thoothukudi",
+        "addr:postcode": "628005",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Rajam Hospital",
+        "source": "Local Knowledge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1195755,
+          8.7341008
+        ]
+      },
+      "id": "node/7849085435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085438",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Mattakkadai, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "St. Joseph's Leprosy Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.148338,
+          8.829118
+        ]
+      },
+      "id": "node/7849085438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085441",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628005",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Rama Moorthy Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1285717,
+          8.7487154
+        ]
+      },
+      "id": "node/7849085441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085445",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Royal Hospital",
+        "source": "Local Knowledge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.126194,
+          8.837286
+        ]
+      },
+      "id": "node/7849085445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085446",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Muthiahpuram, Thoothukudi",
+        "addr:postcode": "628005",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Selvakrishna Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.122595,
+          8.742739
+        ]
+      },
+      "id": "node/7849085446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085448",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Muthammal Colony, Thoothukudi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Arr Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1259862,
+          8.8179388
+        ]
+      },
+      "id": "node/7849085448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085451",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Sivathaiyapuram",
+        "addr:postcode": "628251",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Kanna Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0452801,
+          8.6836279
+        ]
+      },
+      "id": "node/7849085451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085452",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Jothi Nagar, Sankaraperi",
+        "addr:postcode": "628002",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "S.S.R.A Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.125229,
+          8.820961
+        ]
+      },
+      "id": "node/7849085452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085454",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Levingipuram, Thoothukudi",
+        "addr:postcode": "628003",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Thiraviam Ortho Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1429845,
+          8.7893139
+        ]
+      },
+      "id": "node/7849085454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849085456",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Ramson Nagar, Pudukottai",
+        "addr:postcode": "628103",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Radhu Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0503965,
+          8.7442781
+        ]
+      },
+      "id": "node/7849085456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849819529",
+        "addr:district": "Thoothukudi",
+        "addr:postcode": "628552",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "ESI Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6982935,
+          9.14728
+        ]
+      },
+      "id": "node/7849819529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849819542",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kalugumalai",
+        "addr:postcode": "628552",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Lakshmi Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7013314,
+          9.1500489
+        ]
+      },
+      "id": "node/7849819542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849819550",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kalugumalai",
+        "addr:postcode": "628552",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Government Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7051644,
+          9.1507419
+        ]
+      },
+      "id": "node/7849819550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7849819555",
+        "addr:district": "Thoothukudi",
+        "addr:full": "Kalugumalai",
+        "addr:postcode": "628552",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "name": "Esakkiyappan Hospital",
+        "source": "Local Knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7033991,
+          9.1476848
+        ]
+      },
+      "id": "node/7849819555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12046470400",
+        "amenity": "hospital",
+        "check_date": "2024-07-10",
+        "healthcare": "hospital",
+        "name": "Thanaraj Speciality Hospital",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1335671,
+          8.7948295
+        ]
+      },
+      "id": "node/12046470400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12046470402",
+        "amenity": "hospital",
+        "check_date": "2024-07-10",
+        "healthcare": "hospital",
+        "name": "Diya Heart Care Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1320744,
+          8.8178236
+        ]
+      },
+      "id": "node/12046470402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12622178047",
+        "amenity": "hospital",
+        "check_date": "2025-02-26",
+        "healthcare": "hospital",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8751836,
+          9.1727519
+        ]
+      },
+      "id": "node/12622178047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12638005903",
+        "amenity": "hospital",
+        "check_date": "2025-03-05",
+        "healthcare": "hospital",
+        "name": "Rajesh Tilak Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1260305,
+          8.7989201
+        ]
+      },
+      "id": "node/12638005903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12638005910",
+        "amenity": "hospital",
+        "check_date": "2025-03-05",
+        "healthcare": "hospital",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1373938,
+          8.7992208
+        ]
+      },
+      "id": "node/12638005910"
+    }
+  ]
+}
